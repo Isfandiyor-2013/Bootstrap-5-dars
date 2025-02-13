@@ -1,0 +1,16 @@
+.matn{
+    position: absolute;
+    left: 520px;
+    top: 3px;
+}
+.matn-boss{
+    border: 1px solid gray;
+    border-radius: 10px 10px 0px 0px;
+}
+.matn-boss-2{
+    border: 1px solid gray;
+}
+.matn-boss-3{
+    border: 1px solid gray;
+    border-radius: 0px 0px 10px 10px;
+}

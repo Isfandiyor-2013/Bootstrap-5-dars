@@ -1,0 +1,9 @@
+.matn{
+    border: 1px solid gray;
+    height: 50px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.matn-2{
+    color: aqua;
+}
